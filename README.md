@@ -14,6 +14,10 @@
   <a href="https://www.hackerrank.com/micamash">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
+  
+  <a href="https://www.frontendmentor.io/profile/micamash">
+    <img src="https://img.shields.io/badge/FrontEndMentor-lightblue?style=for-the-badge&logo=frontendmentor&logoColor=hotpink" alt="Frontend Mentor Badge"/>
+  </a>
 </p>
 
 
