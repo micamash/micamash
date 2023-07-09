@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<p align="center">
   <img src="img/profile-img.png" width="100"/>
 </div>
 
@@ -14,10 +14,10 @@
   <a href="https://www.hackerrank.com/micamash">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
-</div>
+</p>
 
 
-<div id="main" align="center">
+<dp align="center">
     <h1>
         Hi! I'm Ash!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,9 +29,9 @@
 
 In my free time I enjoy :scissors: fiber arts, :books: reading, :notes: playing guitar, :art: digital painting, and :game_die: tabletop gaming.
 
-</div>
+</p>
 
-<div id="language-badges" align="center" width="100px>
+<p align="center">
 
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
@@ -43,4 +43,4 @@ In my free time I enjoy :scissors: fiber arts, :books: reading, :notes: playing 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-</div>
+</p>
