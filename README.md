@@ -6,13 +6,11 @@
   <a href="https://www.linkedin.com/in/ashleymical/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-<div id="profiles-badges" align="center">
+  
   <a href="https://leetcode.com/micamash/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-</div>
-
+  
 <a href="https://www.codewars.com/users/micamash">
     <img src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=red" alt="CodeWars Badge"/>
   </a>
