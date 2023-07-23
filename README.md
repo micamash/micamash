@@ -17,10 +17,6 @@
 
 :seedling: I am a full stack software engineering bootcamp student (July '23 grad) seeking a Software Engineering role.
 
-:telescope: In addition to my bootcamp curriculum I am also working through The Odin Project and Colt Steele's Web Development Udemy course.
-
-In my free time I enjoy :scissors: fiber arts, :books: reading, :notes: playing guitar, :art: digital painting, and :game_die: tabletop gaming.
-
 </p>
 
 <p align="center">
